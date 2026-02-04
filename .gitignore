@@ -1,3 +1,5 @@
 venv/
 mnist_train.csv
 mnist_test.csv
+runs/
+yolov8n.pt
